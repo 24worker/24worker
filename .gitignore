@@ -9,6 +9,8 @@ node_modules/
 
 # 忽略临时文件
 *.tmp
+.temp/
+.cache/
 
 # 忽略特定文件
 myfile.txt
